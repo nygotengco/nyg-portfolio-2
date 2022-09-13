@@ -1,0 +1,99 @@
+/*HOME*/
+#home{
+	align-items: center;
+	text-align: justify;
+	height: 450px;
+	padding-right: 5%;
+}
+#home-intro{
+	width: auto;
+}
+
+#home-intro p:nth-child(1){
+	font-size: 35px;
+}
+
+#home-intro p:nth-child(2){
+	font-size: 85px;
+}
+
+#home-intro p:nth-child(3){
+	font-size: 24px;
+}
+
+#home-intro p:nth-child(4){
+	font-size: 14px;
+	text-align: justify;
+}
+
+#home-intro p:nth-child(5){
+	font-size: 14px;
+	text-align: justify;
+}
+
+/*ABOUT ME*/
+
+#pic{
+	flex-direction: column;
+	align-items: center;
+	align-content: center;
+}
+
+#pic img{
+	width: 400px;
+	height: 520px;
+	padding-left: 0;
+	padding-bottom: 30px;
+}
+
+#intro{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#intro p:nth-child(1){
+	text-align: center;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+
+#intro p:nth-child(2){
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 20px;
+	font-size: 16px;
+}
+
+
+/*NAV BAR*/
+.nav ul{
+flex-wrap: wrap;
+justify-content: center;
+}
+
+/*WORKS*/
+
+#works{
+	align-items: center;
+	margin-left: -20px;
+}
+
+#works h1, p{
+align-items: center;
+margin-left: -5%;
+}
+
+/*HOME PIC*/
+#home-pic{
+	visibility: hidden;
+}
+
+/*CONTACT*/
+
+.email{
+	text-indent: 25px;
+}
+
+footer{
+align-items: center;
+}

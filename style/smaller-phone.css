@@ -1,0 +1,108 @@
+.navbar nav ul li{
+	font-size: 12px;
+}
+
+.navbar img{
+	width: 130px;
+	height: 130px;
+}
+
+nav .links a {
+	font-size: 16px;
+}
+
+
+#home{
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+	align-content: center;
+	padding-top: 140px;
+}
+
+#home-intro{
+	margin: 0;
+	align-content: center;
+	width: auto;
+}
+#home-intro p{
+	margin: 0;
+	align-content: center;
+	text-align: justify-all;
+}
+
+#home-intro p:nth-child(1){
+	font-size: 24px;
+}
+
+#home-intro p:nth-child(2){
+	font-size: 50px;
+	padding: 0;
+}
+
+#home-intro p:nth-child(3){
+	font-size: 20px;
+	text-align: justify;
+}
+
+#home-intro p:nth-child(4){
+	font-size: 13px;
+	text-align: justify;
+}
+
+#home-intro p:nth-child(5){
+	font-size: 13px;
+	text-align: justify;
+}
+
+#pic img{
+	width: 230px;
+	height: 300px;
+}
+
+#intro{
+	padding: 0;
+}
+
+#intro p:nth-child(2){
+	padding-right: 40px;
+}
+
+#works{
+	align-content: center;
+}
+
+#works h1 {
+	text-align: center;
+}
+
+#works p{
+	text-align: center;
+}
+
+.gallery{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.gallery img{
+	align-content: center;
+	width: 320px;
+	height: 220px;
+}
+
+#contact{
+	padding: 20px;
+}
+
+.email img{
+	width: 25px;
+	height: 25px;
+}
+
+.linkedin img{
+	width: 25px;
+	height: 25px;
+}
